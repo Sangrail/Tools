@@ -1,0 +1,6 @@
+C:\Users\BinaryAgent\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\0xdeadcode\DeepSearch\1.0\\DeepSearch.dll
+C:\Users\BinaryAgent\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\0xdeadcode\DeepSearch\1.0\\DeepSearch.pkgdef
+C:\Users\BinaryAgent\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\0xdeadcode\DeepSearch\1.0\\extension.vsixmanifest
+C:\Users\BinaryAgent\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\0xdeadcode\DeepSearch\1.0\Templates\\DeepSearch.deepsearch
+C:\Users\BinaryAgent\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\0xdeadcode\DeepSearch\1.0\Templates\\DeepSearch.vsdir
+C:\Users\BinaryAgent\AppData\Local\Microsoft\VisualStudio\12.0Exp\Extensions\0xdeadcode\DeepSearch\1.0\\DeepSearch.pdb

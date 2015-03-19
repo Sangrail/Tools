@@ -1,0 +1,15 @@
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\bin\Debug\DeepSearchStandAlone.exe.config
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone.csprojResolveAssemblyReference.cache
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\MainWindow.baml
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\MainWindow.g.cs
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\App.g.cs
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone_MarkupCompile.cache
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone.g.resources
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone.Properties.Resources.resources
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone.csproj.GenerateResource.Cache
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\bin\Debug\DeepSearchStandAlone.exe
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\bin\Debug\DeepSearchStandAlone.pdb
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone.exe
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone.pdb
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\BinaryAgent\documents\visual studio 2013\Projects\DeepSearch\DeepSearchStandAlone\obj\Debug\DeepSearchStandAlone_MarkupCompile.lref

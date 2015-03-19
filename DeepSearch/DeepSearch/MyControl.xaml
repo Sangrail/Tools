@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="deadcode.DeepSearch.DeepSearchControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             mc:Ignorable="d" d:DesignWidth="300"
+             Name="MyToolWindow" Height="287">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="67*"/>
+            <RowDefinition Height="166*"/>
+            <RowDefinition Height="48*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Vertical" Grid.RowSpan="4" Margin="0,0,0,-13">
+            <TextBlock Margin="118,10" HorizontalAlignment="Center"><Run Text="DeepSearch"/></TextBlock>
+            <TextBox x:Name="queryText" Height="63" TextWrapping="Wrap" Text="SELECT System.ItemName, System.ItemUrl, System.FileExtension, System.FileName, System.FileAttributes, System.FileOwner, System.ItemType, System.ItemTypeText , System.KindText, System.Kind, System.MIMEType, System.Size FROM SYSTEMINDEX  WHERE System.ItemType = '.pdf'" FontFamily="Courier New"/>
+            <Button Content="Search" Click="button1_Click" Height="39" x:Name="button1"/>
+            <StackPanel Orientation="Vertical">
+                <DataGrid x:Name="gridResults"  AutoGenerateColumns="True" ItemsSource="{Binding .}"
+            		AutoGeneratingColumn="r2_AutoGeneratingColumn" AlternatingRowBackground="#FFFFF3D8" ClipboardCopyMode="IncludeHeader" Margin="0" Padding="5" Panel.ZIndex="-1" SelectionUnit="Cell" Height="154">
+                    <DataGrid.Effect>
+                        <DropShadowEffect/>
+                    </DataGrid.Effect>
+                </DataGrid>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</UserControl>

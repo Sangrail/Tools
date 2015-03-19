@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="SearchResults" targetNamespace="http://tempuri.org/SearchResults.xsd" xmlns:mstns="http://tempuri.org/SearchResults.xsd" xmlns="http://tempuri.org/SearchResults.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="SearchResults" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="SearchResults" msprop:Generator_UserDSName="SearchResults">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Table" msprop:Generator_TableClassName="TableDataTable" msprop:Generator_TableVarName="tableTable" msprop:Generator_TablePropName="Table" msprop:Generator_RowDeletingName="TableRowDeleting" msprop:Generator_RowChangingName="TableRowChanging" msprop:Generator_RowEvHandlerName="TableRowChangeEventHandler" msprop:Generator_RowDeletedName="TableRowDeleted" msprop:Generator_UserTableName="Table" msprop:Generator_RowChangedName="TableRowChanged" msprop:Generator_RowEvArgName="TableRowChangeEvent" msprop:Generator_RowClassName="TableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="System.ItemName" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_ItemName" msprop:Generator_ColumnVarNameInTable="_columnSystem_ItemName" msprop:Generator_ColumnPropNameInTable="_System_ItemNameColumn" msprop:Generator_UserColumnName="System.ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="System.ItemUrl" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_ItemUrl" msprop:Generator_ColumnVarNameInTable="_columnSystem_ItemUrl" msprop:Generator_ColumnPropNameInTable="_System_ItemUrlColumn" msprop:Generator_UserColumnName="System.ItemUrl" type="xs:string" minOccurs="0" />
+              <xs:element name="System.FileExtension" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_FileExtension" msprop:Generator_ColumnVarNameInTable="_columnSystem_FileExtension" msprop:Generator_ColumnPropNameInTable="_System_FileExtensionColumn" msprop:Generator_UserColumnName="System.FileExtension" type="xs:string" minOccurs="0" />
+              <xs:element name="System.FileName" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_FileName" msprop:Generator_ColumnVarNameInTable="_columnSystem_FileName" msprop:Generator_ColumnPropNameInTable="_System_FileNameColumn" msprop:Generator_UserColumnName="System.FileName" type="xs:string" minOccurs="0" />
+              <xs:element name="System.FileAttributes" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_FileAttributes" msprop:Generator_ColumnVarNameInTable="_columnSystem_FileAttributes" msprop:Generator_ColumnPropNameInTable="_System_FileAttributesColumn" msprop:Generator_UserColumnName="System.FileAttributes" type="xs:string" minOccurs="0" />
+              <xs:element name="System.FileOwner" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_FileOwner" msprop:Generator_ColumnVarNameInTable="_columnSystem_FileOwner" msprop:Generator_ColumnPropNameInTable="_System_FileOwnerColumn" msprop:Generator_UserColumnName="System.FileOwner" type="xs:string" minOccurs="0" />
+              <xs:element name="System.ItemType" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_ItemType" msprop:Generator_ColumnVarNameInTable="_columnSystem_ItemType" msprop:Generator_ColumnPropNameInTable="_System_ItemTypeColumn" msprop:Generator_UserColumnName="System.ItemType" type="xs:string" minOccurs="0" />
+              <xs:element name="System.ItemTypeText" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_ItemTypeText" msprop:Generator_ColumnVarNameInTable="_columnSystem_ItemTypeText" msprop:Generator_ColumnPropNameInTable="_System_ItemTypeTextColumn" msprop:Generator_UserColumnName="System.ItemTypeText" type="xs:string" minOccurs="0" />
+              <xs:element name="System.KindText" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_KindText" msprop:Generator_ColumnVarNameInTable="_columnSystem_KindText" msprop:Generator_ColumnPropNameInTable="_System_KindTextColumn" msprop:Generator_UserColumnName="System.KindText" type="xs:string" minOccurs="0" />
+              <xs:element name="System.MIMEType" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_MIMEType" msprop:Generator_ColumnVarNameInTable="_columnSystem_MIMEType" msprop:Generator_ColumnPropNameInTable="_System_MIMETypeColumn" msprop:Generator_UserColumnName="System.MIMEType" type="xs:string" minOccurs="0" />
+              <xs:element name="System.Size" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="_System_Size" msprop:Generator_ColumnVarNameInTable="_columnSystem_Size" msprop:Generator_ColumnPropNameInTable="_System_SizeColumn" msprop:Generator_UserColumnName="System.Size" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
